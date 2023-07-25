@@ -1,0 +1,39 @@
+    {
+    	"id": 292,
+    	"name": "Mont-Saint-Michel",
+    	"description": "Mont-Saint-Michel is a tidal island and mainland commune in Bretagne, France.",
+    	"links": {
+    		"website": [
+    			"https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+    		],
+    		"subreddit": [
+    			"placeFR"
+    		]
+    	},
+    	"path": {
+    		"4-254": [
+    			[
+    				-479,
+    				420
+    			],
+    			[
+    				-479,
+    				488
+    			],
+    			[
+    				-390,
+    				488
+    			],
+    			[
+    				-391,
+    				419
+    			]
+    		]
+    	},
+    	"center": {
+    		"4-254": [
+    			-435,
+    			454
+    		]
+    	}
+    }
