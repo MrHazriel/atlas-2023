@@ -1,0 +1,43 @@
+    {
+    	"id": 292,
+    	"name": "Mont-Saint-Michel",
+    	"description": "Mont-Saint-Michel est un monument historique Breton, situé en Normandie",
+    	"links": {
+    		"website": [
+    			"https://en.wikipedia.org/wiki/Mont-Saint-Michel"
+    		],
+    		"subreddit": [
+    			"placeFR"
+    		]
+    	},
+    	"path": {
+    		"6-258": [
+    			[
+    				-479,
+    				420
+    			],
+    			[
+    				-479,
+    				488
+    			],
+    			[
+    				-390,
+    				488
+    			],
+    			[
+    				-391,
+    				419
+    			],
+    			[
+    				-399,
+    				418
+    			]
+    		]
+    	},
+    	"center": {
+    		"6-258": [
+    			-425,
+    			453
+    		]
+    	}
+    }
